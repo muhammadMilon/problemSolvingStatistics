@@ -1,6 +1,6 @@
 # ProblemSolvingStatistics
 
-Track and showcase your problem-solving statistics on various Online Judges (OJ).
+Track and showcase my problem-solving statistics on various Online Judges (OJ).
 
 | OnlineJudge   | Username          | Solve Count |
 | ------------- | ----------------- | ----------- |
