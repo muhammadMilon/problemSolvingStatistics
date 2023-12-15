@@ -4,8 +4,9 @@ Track and showcase my problem-solving statistics on various Online Judges (OJ).
 
 | OnlineJudge   | Username          | Solve Count |
 | ------------- | ----------------- | ----------- |
-| Codeforces     | [mmilon82814](https://codeforces.com/profile/mmilon82814) | 260         |
-| **Total**      |                   | **260**     |
+| Codeforces | [mmilon82814](https://codeforces.com/profile/mmilon82814) | 260         |
+| Vjudge     | [2021331098] (https://vjudge.net/user/2021331098) | 115 |
+| **Total**      |                   | **375**     |
 
 **Last Updated:** 15 June, 2023
 
