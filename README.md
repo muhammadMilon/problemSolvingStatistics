@@ -1,13 +1,11 @@
-# problemSolvingStatistics
-
-
+# ProblemSolvingStatistics
 
 Track and showcase your problem-solving statistics on various Online Judges (OJ).
 
-| OnlineJudge           | Username           | Solve Count |
-| -------------- | ------------------ | ----------- |
-| Codeforces     |    mmilon82814                | 260     |
-| **Total**      |                    | **260**    |
+| OnlineJudge   | Username          | Solve Count |
+| ------------- | ----------------- | ----------- |
+| Codeforces     | [mmilon82814](https://codeforces.com/profile/mmilon82814) | 260         |
+| **Total**      |                   | **260**     |
 
 **Last Updated:** 15 June, 2023
 
