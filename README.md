@@ -9,6 +9,7 @@ Track and showcase my problem-solving statistics on various Online Judges (OJ).
 | Codechef | [milonvai143](https://www.codechef.com/users/milonvai143) | 17 |
 | HackerRank | [muhammadMilon](https://www.hackerrank.com/profile/muhammadMilon) | 12 |
 | LeetCode| [hiMilon](https://leetcode.com/hiMilon/)| 5|
+| UVa| [hiMilon](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=15)|1|
 | **Total** | | **395** |
 
 **Last Updated:** 15 December, 2023
