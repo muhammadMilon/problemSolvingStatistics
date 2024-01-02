@@ -1,19 +1,19 @@
-# ProblemSolvingStatistics
+# Problem Solving Statistics
 
 Track and showcase my problem-solving statistics on various Online Judges (OJ).
 
-| OnlineJudge | Username | Solve Count |
-| ------------ | ------------ | ------------ |
-| Codeforces | [hiMilon](https://codeforces.com/profile/mmilon82814) | 263 |
-| Vjudge | [2021331098](https://vjudge.net/user/2021331098) | 115 |
-| Codechef | [milonvai143](https://www.codechef.com/users/milonvai143) | 17 |
-| HackerRank | [muhammadMilon](https://www.hackerrank.com/profile/muhammadMilon) | 12 |
-| LeetCode| [hiMilon](https://leetcode.com/hiMilon/)| 5|
-| UVa| [hiMilon](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=15)|1|
-|SPOJ| [mmilon] (https://www.spoj.com/myaccount)|1|
-| **Total** | | **395** |
+| Online Judge | Username | Solve Count |
+| ------------ | -------- | ----------- |
+| Codeforces   | [hiMilon](https://codeforces.com/profile/mmilon82814) | 263 |
+| Vjudge       | [2021331098](https://vjudge.net/user/2021331098) | 115 |
+| Codechef     | [milonvai143](https://www.codechef.com/users/milonvai143) | 17  |
+| HackerRank   | [muhammadMilon](https://www.hackerrank.com/profile/muhammadMilon) | 12 |
+| LeetCode     | [hiMilon](https://leetcode.com/hiMilon/) | 5  |
+| UVa          | [hiMilon](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=15) | 1  |
+| SPOJ         | [mmilon](https://www.spoj.com/myaccount) | 1  |
+| **Total**    |           | **395**  |
 
-**Last Updated:** 15 December, 2023
+**Last Updated:** 15 December 2023
 
 ## About
 
