@@ -10,6 +10,7 @@ Track and showcase my problem-solving statistics on various Online Judges (OJ).
 | HackerRank | [muhammadMilon](https://www.hackerrank.com/profile/muhammadMilon) | 12 |
 | LeetCode| [hiMilon](https://leetcode.com/hiMilon/)| 5|
 | UVa| [hiMilon](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=15)|1|
+|SPOJ| [mmilon] (https://www.spoj.com/myaccount/)
 | **Total** | | **395** |
 
 **Last Updated:** 15 December, 2023
