@@ -13,6 +13,7 @@ Track and showcase my problem-solving statistics on various Online Judges (OJ).
 | SPOJ         | [mmilon](https://www.spoj.com/myaccount) | 5  |
 | LightOJ      | [m-milon101](https://lightoj.com/user/m-milon101)|12|
 | CSES         | [mmilon](https://cses.fi/user/190846)| 1|
+|Hackerearth|   [mmilon82814](https://www.hackerearth.com/@mmilon82814)|1|
 | **Total**    |           | **395**  |
 
 **Last Updated:** 15 December 2023
