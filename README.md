@@ -15,7 +15,7 @@ Track and showcase my problem-solving statistics on various Online Judges (OJ).
 |ix)| CSES         | [mmilon](https://cses.fi/user/190846)| 1|
 |x)|Hackerearth|   [mmilon82814](https://www.hackerearth.com/@mmilon82814)|1|
 |xi)|KATTIS| [m-milon](https://open.kattis.com/users/m-milon)|1|
-| **Total**    |           | **395**  |
+| **Total**    | |          | **395**  |
 
 **Last Updated:** 15 December 2023
 
