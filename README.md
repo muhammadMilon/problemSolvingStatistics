@@ -13,7 +13,7 @@ Track and showcase my problem-solving statistics on various Online Judges (OJ).
 |vii)| SPOJ         | [mmilon](https://www.spoj.com/myaccount) | 5  |
 |viii)| LightOJ      | [m-milon101](https://lightoj.com/user/m-milon101)|12|
 |ix)| CSES         | [mmilon](https://cses.fi/user/190846)| 1|
-|x)|Hackerearth|   [mmilon82814](https://www.hackerearth.com/@mmilon82814)|1|
+|x)|Hackerearth|   [hiMilon](https://www.hackerearth.com/@hiMilon/)|1|
 |xi)|KATTIS| [m-milon](https://open.kattis.com/users/m-milon)|1|
 |   | |         **Total**   | **395**  |
 
